@@ -90,4 +90,6 @@ Let me work through this systematically.
 * Refined byte-level Vigenere crack with proper base64 scoring
 * Try Base064-alphabet Vigenere theory
 * Crack B64-alphabet Vigenere with key length 4 using IC analysis
+* Kasiski examination to find key length via repeated substrings
 * (16 minutes processing, still not over)
+* (You are out of free messages until 7:30 PM)
