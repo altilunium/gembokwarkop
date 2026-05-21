@@ -1,6 +1,8 @@
 # gembokwarkop
 casual encryption for daily use
 
+https://altilunium.github.io/gembokwarkop/
+
 <img width="776" height="641" alt="image" src="https://github.com/user-attachments/assets/de125d5a-34ed-4952-b7c3-e8c84e266e84" />
 
 
